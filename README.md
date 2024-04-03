@@ -1,6 +1,8 @@
 THIS REPO IS PART OF A PROJECT FOR THE COURSE CSCI5551 - INTRODUCTION TO INTELLIGENT ROBOTICS SYSTEMS, AT THE UNIVERSITY OF MINNESOTA.
 
 THIS PROJECT BUILDS UPON THE EXISTING OFFICIAL KINEVAL STENCIL PACKAGE FROM THE UNIVERSITY OF MICHIGAN - LINK: https://github.com/autorob/kineval-stencil
+
+For academic purposes, the code files for the project will not be releases :(
 ________________________________________________________________________________________________________________________________________________________
 
 INPUT and OUTPUT:
@@ -21,6 +23,8 @@ Learning from trials: We tested our algorithm 100 times, achieving a success rat
 
 SIMULATION:
 -----------
+(Assuming that all the code files from the official Kineval Stencil repo has been filled)
+
 To run the environment, run "python -m http.server" in the project directory. Then open "http://localhost:8000/home.html" on your local browser.
 
 Navigate the toolbar on the top right side of the screen to view different functions that the robot can perform.
