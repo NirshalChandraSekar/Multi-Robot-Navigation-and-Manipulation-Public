@@ -5,6 +5,9 @@ THIS PROJECT BUILDS UPON THE EXISTING OFFICIAL KINEVAL STENCIL PACKAGE FROM THE 
 For academic purposes, the code files for the project will not be releases :(
 ________________________________________________________________________________________________________________________________________________________
 
+<img src: "">
+
+
 INPUT and OUTPUT:
 -----------------
 The environment contains two MR2 robots, operating in a set environment with known obstacles. The task involves two cubes, red and blue, placed randomly. The challenge is to guide both robots simultaneously to pick up their corresponding cubes and return to the starting point avoiding obstacles.
@@ -43,9 +46,9 @@ Each time you refresh the window, the robots spawns in a random position, and pe
 DEMO:
 -------
 
-https://github.com/NirshalNiru/Multi-Robot-Navigation-and-Manipulation/assets/157089936/7b52a4fa-b994-427b-9865-35942a2ae612
+Demo video 1: https://drive.google.com/file/d/1crhBtuTMgQC5YZQZhSi9iIOlj7Zkg82z/view?usp=sharing
 
-https://github.com/NirshalNiru/Multi-Robot-Navigation-and-Manipulation/assets/157089936/c2f4d52f-aa99-4072-9e7e-ad4949795297
+Demo video 2: https://drive.google.com/file/d/11QT3Fp3zUWTHgTmYErGyAAEVrh2zzeOi/view?usp=sharing
 
 
 
