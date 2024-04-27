@@ -5,12 +5,18 @@ THIS PROJECT BUILDS UPON THE EXISTING OFFICIAL KINEVAL STENCIL PACKAGE FROM THE 
 For academic purposes, the code files for the project will not be releases :(
 ________________________________________________________________________________________________________________________________________________________
 
-<img src: "">
+<img src= "https://github.com/NirshalNiru/Multi-Robot-Navigation-and-Manipulation-Public/blob/77d855184897a27375a86993135172006287c07e/image.png">
 
 
 INPUT and OUTPUT:
 -----------------
 The environment contains two MR2 robots, operating in a set environment with known obstacles. The task involves two cubes, red and blue, placed randomly. The challenge is to guide both robots simultaneously to pick up their corresponding cubes and return to the starting point avoiding obstacles.
+
+DEMO:
+-------
+Demo video 1: https://drive.google.com/file/d/1crhBtuTMgQC5YZQZhSi9iIOlj7Zkg82z/view?usp=sharing
+
+Demo video 2: https://drive.google.com/file/d/11QT3Fp3zUWTHgTmYErGyAAEVrh2zzeOi/view?usp=sharing
 
 METHOD:
 --------
@@ -42,16 +48,3 @@ run http://localhost:8000/home.html?world=worlds/world_final_project.js on your 
 Check "persist_mobile_manipulate_traversal" under "Mobile Manipulate" tool in the toolbar.
 
 Each time you refresh the window, the robots spawns in a random position, and performs the navigation and manipulation tasks simultaneously.
-
-DEMO:
--------
-
-Demo video 1: https://drive.google.com/file/d/1crhBtuTMgQC5YZQZhSi9iIOlj7Zkg82z/view?usp=sharing
-
-Demo video 2: https://drive.google.com/file/d/11QT3Fp3zUWTHgTmYErGyAAEVrh2zzeOi/view?usp=sharing
-
-
-
-
-
-
